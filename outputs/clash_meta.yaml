@@ -1,20 +1,6 @@
 proxies:
 - name: 🇫🇷 FR-VLESS-1
   type: vless
-  server: 62.210.70.194
-  port: 37783
-  uuid: a289c660-1b12-432b-a06c-c2ae469272b0
-  flow: ''
-  network: xhttp
-  tls: true
-  udp: true
-  sni: www.yahoo.com
-  client-fingerprint: chrome
-  reality-opts:
-    public-key: tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg
-    short-id: 21569dd6
-- name: 🇫🇷 FR-VLESS-2
-  type: vless
   server: 2001:bc8:32d7:302::14
   port: 37783
   uuid: a289c660-1b12-432b-a06c-c2ae469272b0
@@ -27,7 +13,7 @@ proxies:
   reality-opts:
     public-key: tQeEamJmYVUUfjRLX7ETvMnPj4DrHzRhR5TI684oYgg
     short-id: 21569dd6
-- name: 🌐 UNK-HYSTERIA-3
+- name: 🌐 UNK-HYSTERIA-2
   type: hysteria
   server: 2a14:7584:d097::a
   port: 54177
@@ -39,7 +25,7 @@ proxies:
   protocol: udp
   up: 11 Mbps
   down: 55 Mbps
-- name: 🇫🇷 FR-HYSTERIA-4
+- name: 🇫🇷 FR-HYSTERIA-3
   type: hysteria
   server: 62.210.70.191
   port: 24667
@@ -51,7 +37,7 @@ proxies:
   protocol: udp
   up: 11 Mbps
   down: 55 Mbps
-- name: 🇫🇷 FR-HYSTERIA-5
+- name: 🇫🇷 FR-HYSTERIA-4
   type: hysteria
   server: 62.210.70.191
   port: 23556
@@ -63,7 +49,7 @@ proxies:
   protocol: udp
   up: 11 Mbps
   down: 55 Mbps
-- name: 🇫🇷 FR-HYSTERIA-6
+- name: 🇫🇷 FR-HYSTERIA-5
   type: hysteria
   server: 163.172.117.163
   port: 36699
@@ -75,6 +61,18 @@ proxies:
   protocol: udp
   up: 11 Mbps
   down: 55 Mbps
+- name: 🇺🇸 US-HYSTERIA-6
+  type: hysteria
+  server: 107.149.207.185
+  port: 443
+  password: dongtaiwang.com
+  auth-str: dongtaiwang.com
+  sni: www.bing.com
+  skip-cert-verify: true
+  alpn:
+  - h3
+  up: 11
+  down: 55
 - name: 🇩🇪 DE-HYSTERIA-7
   type: hysteria
   server: 5.83.129.90
