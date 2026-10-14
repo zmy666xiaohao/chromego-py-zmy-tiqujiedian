@@ -5,7 +5,7 @@
 # =======================
 
 {
-"server": "62.210.70.191:23556",
+"server": "107.149.207.185:443",
 "protocol": "udp",
 "up_mbps": 11,
 "down_mbps": 55,
@@ -15,9 +15,9 @@
 "disable_udp": false
 },
 "obfs": "",
-"auth_str": "github.com/Alvin9999-newpac/fanqiang",
+"auth_str": "dongtaiwang.com",
 "alpn": "h3",
-"server_name": "bing.com",
+"server_name": "www.bing.com",
 "insecure": true,
 "recv_window_conn": 57671680,
 "recv_window": 230686720,
@@ -33,7 +33,7 @@
 }
 
 {
-"server": "62.210.70.191:23556",
+"server": "107.149.207.185:443",
 "protocol": "udp",
 "up_mbps": 11,
 "down_mbps": 55,
@@ -43,9 +43,9 @@
 "disable_udp": false
 },
 "obfs": "",
-"auth_str": "github.com/Alvin9999-newpac/fanqiang",
+"auth_str": "dongtaiwang.com",
 "alpn": "h3",
-"server_name": "bing.com",
+"server_name": "www.bing.com",
 "insecure": true,
 "recv_window_conn": 57671680,
 "recv_window": 230686720,
@@ -117,7 +117,7 @@
 }
 
 {
-"server": "62.210.70.191:23556",
+"server": "107.149.207.185:443",
 "protocol": "udp",
 "up_mbps": 11,
 "down_mbps": 55,
@@ -127,9 +127,9 @@
 "disable_udp": false
 },
 "obfs": "",
-"auth_str": "github.com/Alvin9999-newpac/fanqiang",
+"auth_str": "dongtaiwang.com",
 "alpn": "h3",
-"server_name": "bing.com",
+"server_name": "www.bing.com",
 "insecure": true,
 "recv_window_conn": 57671680,
 "recv_window": 230686720,
@@ -145,7 +145,7 @@
 }
 
 {
-"server": "62.210.70.191:23556",
+"server": "107.149.207.185:443",
 "protocol": "udp",
 "up_mbps": 11,
 "down_mbps": 55,
@@ -155,9 +155,9 @@
 "disable_udp": false
 },
 "obfs": "",
-"auth_str": "github.com/Alvin9999-newpac/fanqiang",
+"auth_str": "dongtaiwang.com",
 "alpn": "h3",
-"server_name": "bing.com",
+"server_name": "www.bing.com",
 "insecure": true,
 "recv_window_conn": 57671680,
 "recv_window": 230686720,
