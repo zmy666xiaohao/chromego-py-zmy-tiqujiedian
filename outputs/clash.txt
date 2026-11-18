@@ -190,7 +190,7 @@ rules:
 
 
 
-secret: https://github.com/Alvin9999-newpac/fanqiang
+secret: https://alvin9999.com
 mixed-port: 7890
 allow-lan: false
 log-level: info
@@ -205,9 +205,9 @@ dns:
       - 240.0.0.0/4
       - 0.0.0.0/32
 proxies:
-  - name: https://github.com/Alvin9999-newpac/fanqiang
+  - name: https://alvin9999.com
     type: hysteria
-    server: 62.210.28.175
+    server: 62.210.124.132
     port: 24667
     auth-str: dongtaiwang.com
     sni: bing.com
@@ -223,38 +223,38 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: ♻️ 自动选择
     type: fallback              
     url: "https://www.gstatic.com/generate_204"
     interval: 5
     proxies:
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -277,12 +277,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
 rules:
   - MATCH,🚀 节点选择
 
 
-secret: https://github.com/Alvin9999-newpac/fanqiang
+secret: https://alvin9999.com
 mixed-port: 7890
 allow-lan: false
 log-level: info
@@ -297,9 +297,9 @@ dns:
       - 240.0.0.0/4
       - 0.0.0.0/32
 proxies:
-  - name: https://github.com/Alvin9999-newpac/fanqiang
+  - name: https://alvin9999.com
     type: hysteria
-    server: 62.210.28.175
+    server: 62.210.124.132
     port: 24667
     auth-str: dongtaiwang.com
     sni: bing.com
@@ -315,38 +315,38 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: ♻️ 自动选择
     type: fallback              
     url: "https://www.gstatic.com/generate_204"
     interval: 5
     proxies:
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -369,7 +369,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - https://github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
 rules:
   - MATCH,🚀 节点选择
 
@@ -814,7 +814,7 @@ rules:
 
 
 
-secret: github.com/Alvin9999-newpac/fanqiang
+secret: https://alvin9999.com
 mixed-port: 7890
 allow-lan: false
 log-level: info
@@ -829,10 +829,10 @@ dns:
       - 240.0.0.0/4
       - 0.0.0.0/32
 proxies:
-  - name: github.com/Alvin9999-newpac/fanqiang                     
+  - name: https://alvin9999.com
     type: hysteria
-    server: 163.172.117.163
-    port: 36699
+    server: 62.210.124.132
+    port: 24667
     auth-str: dongtaiwang.com
     sni: bing.com
     skip-cert-verify: true
@@ -847,38 +847,38 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: ♻️ 自动选择
     type: fallback              
     url: "https://www.gstatic.com/generate_204"
     interval: 5
     proxies:
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -901,13 +901,12 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
 rules:
   - MATCH,🚀 节点选择
 
 
-
-secret: github.com/Alvin9999-newpac/fanqiang
+secret: https://alvin9999.com
 mixed-port: 7890
 allow-lan: false
 log-level: info
@@ -922,10 +921,10 @@ dns:
       - 240.0.0.0/4
       - 0.0.0.0/32
 proxies:
-  - name: github.com/Alvin9999-newpac/fanqiang                     
+  - name: https://alvin9999.com
     type: hysteria
-    server: 163.172.117.163
-    port: 36699
+    server: 62.210.124.132
+    port: 24667
     auth-str: dongtaiwang.com
     sni: bing.com
     skip-cert-verify: true
@@ -940,38 +939,38 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: ♻️ 自动选择
     type: fallback              
     url: "https://www.gstatic.com/generate_204"
     interval: 5
     proxies:
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -994,10 +993,9 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - github.com/Alvin9999-newpac/fanqiang
+      - https://alvin9999.com
 rules:
   - MATCH,🚀 节点选择
-
 
 
 secret: github.com/Alvin9999-newpac/fanqiang
