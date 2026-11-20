@@ -32,7 +32,7 @@
 }
 
 {
-  "server": "[2001:bc8:32d7:17b::3]:22000",
+  "server": "[2001:bc8:32d7:17b::4]:22000",
   "auth": "dongtaiwang.com",
   "bandwidth": {
     "up": "11 mbps",
@@ -89,7 +89,7 @@
 
 
 {
-  "server": "[2001:bc8:32d7:17b::3]:22000",
+  "server": "[2001:bc8:32d7:17b::7]:22000",
   "auth": "dongtaiwang.com",
   "bandwidth": {
     "up": "11 mbps",
@@ -144,7 +144,7 @@
 }
 
 {
-  "server": "[2001:bc8:32d7:17b::3]:22000",
+  "server": "[2001:bc8:32d7:17b::6]:22000",
   "auth": "dongtaiwang.com",
   "bandwidth": {
     "up": "11 mbps",
@@ -199,7 +199,7 @@
 
 
 {
-  "server": "[2001:bc8:32d7:17b::3]:22000",
+  "server": "[2001:bc8:32d7:17b::8]:22000",
   "auth": "dongtaiwang.com",
   "bandwidth": {
     "up": "11 mbps",
